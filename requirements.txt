@@ -4,3 +4,6 @@ bcrypt
 pandas
 python-telegram-bot==20.7
 plyer
+reportlab
+openpyxl
+matplotlib
