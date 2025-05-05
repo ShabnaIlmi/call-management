@@ -7,3 +7,4 @@ plyer
 reportlab
 openpyxl
 matplotlib
+bcrypt
