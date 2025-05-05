@@ -11,6 +11,5 @@ def create_user(username, password):
     db.close()
     print(f"✅ User '{username}' created.")
 
-# Example usage
-create_user("admin", "admin123")
+
 create_user("Shabna, shabna123")
